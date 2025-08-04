@@ -5,7 +5,7 @@ from ics import Calendar
 ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/22SPS.ics"
 
 # Schlüsselwörter, nach denen gefiltert wird
-KEYWORDS = ["IT-Sicherheit A", " 22DWF", "Simulation" ]
+KEYWORDS = ["IT-Sicherheit", " KD",  ]
 
 response = requests.get(ICS_URL)
 response.raise_for_status()
