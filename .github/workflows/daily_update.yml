@@ -3,28 +3,32 @@ name: Tägliches Kalender-Update
 on:
   schedule:
     - cron: '0 4 * * *'  # täglich um 04:00 UTC
-  workflow_dispatch:       # manuelles Ausführen
+  workflow_dispatch:       # manuelles Starten
 
 jobs:
   update-ics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: pip install ics requests
+
       - name: Run filter script
         run: python filter_ics.py
-- name: Commit result
-  env:
-    TOKEN: ${{ secrets.GH_TOKEN }}
-  run: |
-    git config user.name "jenni-bot"
-    git config user.email "jenni-bot@users.noreply.github.com"
-    git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-    git add filtered.ics
-    git commit -m "Auto-update filtered.ics" || echo "No changes"
-    git push origin main
+
+      - name: Commit result
+        env:
+          TOKEN: ${{ secrets.GH_token }}
+        run: |
+          git config user.name "jenni-bot"
+          git config user.email "jenni-bot@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git add filtered.ics
+          git commit -m "Auto-update filtered.ics" || echo "No changes"
+          git push origin main
