@@ -31,4 +31,6 @@ jobs:
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add filtered.ics
           git commit -m "Auto-update filtered.ics" || echo "No changes"
+          run: git remote -v
+
           git push origin main
