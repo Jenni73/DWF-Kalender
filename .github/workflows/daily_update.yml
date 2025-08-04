@@ -18,9 +18,9 @@ jobs:
         run: pip install ics requests
       - name: Run filter script
         run: python filter_ics.py
-   - name: Commit result
+- name: Commit result
   env:
-    TOKEN: ${{ secrets.GH_token }}
+    TOKEN: ${{ secrets.GH_TOKEN }}
   run: |
     git config user.name "jenni-bot"
     git config user.email "jenni-bot@users.noreply.github.com"
