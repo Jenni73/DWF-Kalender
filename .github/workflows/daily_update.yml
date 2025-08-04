@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit result
         env:
-          TOKEN: ${{ secrets.GH_token }}
+          TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "jenni-bot"
           git config user.email "jenni-bot@users.noreply.github.com"
