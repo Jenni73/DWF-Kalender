@@ -2,7 +2,7 @@ import requests
 from ics import Calendar
 
 # URL deiner Hochschul-ICS-Datei
-ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/22SPS.ics"
+ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/23SPS.ics"
 
 # Schlüsselwörter, nach denen gefiltert wird
 KEYWORDS = ["Supply Chain", "Controlling","Informationsmanagement", "Projektierung von ", "Usability", "Produktionsplanung","Projektmanagement", "Businessplanung" ]
