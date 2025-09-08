@@ -6,763 +6,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Fr\, 24.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251024T093000Z
-LOCATION:KD0002
-DTSTART:20251024T061500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
-TRANSP:OPAQUE
-UID:sked.de287320
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Di\, 21.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251021T093000Z
-LOCATION:KD0002
-DTSTART:20251021T061500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
-TRANSP:OPAQUE
-UID:sked.de287321
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Fr\, 24.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
-DTEND:20251024T133000Z
-LOCATION:KD0002
-DTSTART:20251024T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
-TRANSP:OPAQUE
-UID:sked.de287322
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Di\, 21.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
-DTEND:20251021T133000Z
-LOCATION:KD0002
-DTSTART:20251021T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
-TRANSP:OPAQUE
-UID:sked.de287323
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Mo\, 06.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
-DTEND:20251006T093000Z
-LOCATION:KD0004
-DTSTART:20251006T061500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
-TRANSP:OPAQUE
-UID:sked.de287313
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Mo\, 06.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0101\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251006T133000Z
-LOCATION:KD0101
-DTSTART:20251006T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
-TRANSP:OPAQUE
-UID:sked.de287314
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Di\, 07.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251007T133000Z
-LOCATION:KD0004
-DTSTART:20251007T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
-TRANSP:OPAQUE
-UID:sked.de287315
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Di\, 07.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0101\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
-DTEND:20251007T093000Z
-LOCATION:KD0101
-DTSTART:20251007T061500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
-TRANSP:OPAQUE
-UID:sked.de287316
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Fr\, 17.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KE0008\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251017T133000Z
-LOCATION:KE0008
-DTSTART:20251017T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
-TRANSP:OPAQUE
-UID:sked.de287318
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Fr\, 17.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0301\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
-DTEND:20251017T093000Z
-LOCATION:KD0301
-DTSTART:20251017T061500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
-TRANSP:OPAQUE
-UID:sked.de287319
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 08.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
-DTEND:20250908T170000Z
-LOCATION:KD0003
-DTSTART:20250908T134500Z
-SUMMARY:Projektierung von IuK-Systemen
-TRANSP:OPAQUE
-UID:sked.de286698
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 15.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
-DTEND:20250915T170000Z
-LOCATION:KD0003
-DTSTART:20250915T134500Z
-SUMMARY:Projektierung von IuK-Systemen
-TRANSP:OPAQUE
-UID:sked.de286699
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mo\, 22.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0301\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250922T170000Z
-LOCATION:KD0301
-DTSTART:20250922T134500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287420
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Do\, 25.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250925T133000Z
-LOCATION:KD0003
-DTSTART:20250925T101500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287421
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Di\, 23.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250923T133000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250923T101500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287423
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Di\, 30.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250930T093000Z
-LOCATION:KD0201
-DTSTART:20250930T061500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287424
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mi\, 22.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251022T093000Z
-LOCATION:KD0001
-DTSTART:20251022T061500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287426
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mo\, 15.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250915T170000Z
-LOCATION:KD0004
-DTSTART:20250915T134500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287416
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Fr\, 26.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KF0004\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250926T133000Z
-LOCATION:KF0004
-DTSTART:20250926T101500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287417
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 01.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
-DTEND:20250901T170000Z
-LOCATION:KD0003
-DTSTART:20250901T134500Z
-SUMMARY:Projektierung von IuK-Systemen
-TRANSP:OPAQUE
-UID:sked.de286409
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Di\, 02.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0101\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250902T093000Z
-LOCATION:KD0101
-DTSTART:20250902T061500Z
-SUMMARY:Innovationsmanagement und Businessplanung B
-TRANSP:OPAQUE
-UID:sked.de286522
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Mi\, 03.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250903T093000Z
-LOCATION:KD0201
-DTSTART:20250903T061500Z
-SUMMARY:Innovationsmanagement und Businessplanung B
-TRANSP:OPAQUE
-UID:sked.de286524
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mi\, 24.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250924T093000Z
-LOCATION:KD0201
-DTSTART:20250924T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286510
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250925T093000Z
-LOCATION:KD0002
-DTSTART:20250925T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286511
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Di\, 30.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250930T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250930T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286512
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 02.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20251002T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20251002T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286513
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mi\, 15.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20251015T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20251015T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286514
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 16.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20251016T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20251016T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286515
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250925T093000Z
-LOCATION:KD0201
-DTSTART:20250925T061500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287510
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 02.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251002T093000Z
-LOCATION:KD0201
-DTSTART:20251002T061500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287511
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 06.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251006T170000Z
-LOCATION:KD0201
-DTSTART:20251006T134500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287512
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 16.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251016T170000Z
-LOCATION:KD0201
-DTSTART:20251016T134500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287513
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0103\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
-DTEND:20250922T133000Z
-LOCATION:LK0103
-DTSTART:20250922T101500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287514
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
-DTEND:20250925T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250925T061500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287515
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Mo\, 29.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
-DTEND:20250929T093000Z
-LOCATION:KD0201
-DTSTART:20250929T061500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287516
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Mo\, 01.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
-DTEND:20250901T170000Z
-LOCATION:KD0201
-DTSTART:20250901T134500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287517
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Di\, 16.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250916T170000Z
-LOCATION:KD0003
-DTSTART:20250916T134500Z
-SUMMARY:Innovationsmanagement und Businessplanung B
-TRANSP:OPAQUE
-UID:sked.de287518
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)\nDozent: Seifert\nDatum: Do\, 18.09.25\nUhrzeit: 9:00 - 17:00 Uhr\nDauer: 8:00 Uhr\nArt: SV\nRaum: Exkursion\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWF-EBU\, 23DWF-IMA\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250918T150000Z
-LOCATION:Exkursion
-DTSTART:20250918T070000Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)
-TRANSP:OPAQUE
-UID:sked.de285631
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Do\, 04.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0106\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250904T133000Z
-LOCATION:KD0106
-DTSTART:20250904T101500Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de286635
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Di\, 02.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250902T093000Z
-LOCATION:KD0201\, KD0202
-DTSTART:20250902T061500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287504
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 04.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250904T170000Z
-LOCATION:KD0201\, KD0202
-DTSTART:20250904T134500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287505
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Di\, 09.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250909T170000Z
-LOCATION:KD0201\, KD0202
-DTSTART:20250909T134500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287506
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 11.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250911T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250911T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286507
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mo\, 15.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250915T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250915T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286508
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 04.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250904T093000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250904T061500Z
-SUMMARY:Informationsmanagement / ERP-Systeme A
-TRANSP:OPAQUE
-UID:sked.de286509
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Fr\, 12.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250912T133000Z
-LOCATION:KD0201\, KD0202
-DTSTART:20250912T101500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287507
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 15.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LN0002\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250915T133000Z
-LOCATION:LN0002
-DTSTART:20250915T101500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287508
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250922T133000Z
-LOCATION:LK0101/LK0102
-DTSTART:20250922T101500Z
-SUMMARY:Projektmanagement
-TRANSP:OPAQUE
-UID:sked.de287509
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 08.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250908T133000Z
-LOCATION:KD0002
-DTSTART:20250908T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286743
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 10.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250910T133000Z
-LOCATION:KD0002
-DTSTART:20250910T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286744
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 15.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250915T133000Z
-LOCATION:KD0002
-DTSTART:20250915T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286745
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 17.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250917T133000Z
-LOCATION:KD0002
-DTSTART:20250917T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286746
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250922T133000Z
-LOCATION:KD0002
-DTSTART:20250922T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286747
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 24.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250924T133000Z
-LOCATION:KD0002
-DTSTART:20250924T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286748
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Do\, 02.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20251002T170000Z
 LOCATION:KD0001
@@ -776,7 +20,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Mo\, 06.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20251006T170000Z
 LOCATION:KD0002
@@ -790,7 +34,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 10.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20251010T170000Z
 LOCATION:KD0003
@@ -804,7 +48,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 24.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20251024T170000Z
 LOCATION:KD0001
@@ -818,7 +62,161 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Fr\, 24.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251024T093000Z
+LOCATION:KD0002
+DTSTART:20251024T061500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
+TRANSP:OPAQUE
+UID:sked.de287320
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Di\, 21.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251021T093000Z
+LOCATION:KD0002
+DTSTART:20251021T061500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
+TRANSP:OPAQUE
+UID:sked.de287321
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Fr\, 24.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
+DTEND:20251024T133000Z
+LOCATION:KD0002
+DTSTART:20251024T101500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
+TRANSP:OPAQUE
+UID:sked.de287322
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Di\, 21.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
+DTEND:20251021T133000Z
+LOCATION:KD0002
+DTSTART:20251021T101500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
+TRANSP:OPAQUE
+UID:sked.de287323
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mi\, 24.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250924T093000Z
+LOCATION:KD0201
+DTSTART:20250924T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286510
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250925T093000Z
+LOCATION:KD0002
+DTSTART:20250925T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286511
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Di\, 30.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250930T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250930T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286512
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Mo\, 06.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
+DTEND:20251006T093000Z
+LOCATION:KD0004
+DTSTART:20251006T061500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
+TRANSP:OPAQUE
+UID:sked.de287313
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Mo\, 06.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0101\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251006T133000Z
+LOCATION:KD0101
+DTSTART:20251006T101500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
+TRANSP:OPAQUE
+UID:sked.de287314
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Di\, 07.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251007T133000Z
+LOCATION:KD0004
+DTSTART:20251007T101500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
+TRANSP:OPAQUE
+UID:sked.de287315
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Di\, 07.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0101\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
+DTEND:20251007T093000Z
+LOCATION:KD0101
+DTSTART:20251007T061500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
+TRANSP:OPAQUE
+UID:sked.de287316
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 12.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20250912T170000Z
 LOCATION:KD0003
@@ -832,7 +230,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 19.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20250919T170000Z
 LOCATION:KD0002
@@ -846,7 +244,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 26.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
 DTEND:20250926T170000Z
 LOCATION:KD0003
@@ -860,7 +258,119 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A\nDozent: Seifert\nDatum: Fr\, 17.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KE0008\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251017T133000Z
+LOCATION:KE0008
+DTSTART:20251017T101500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) A
+TRANSP:OPAQUE
+UID:sked.de287318
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B\nDozent: Seifert\nDatum: Fr\, 17.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0301\nStudiengruppe: 23DWF-EBU\, 23DWF-IMA\nAnmerkung: -
+DTEND:20251017T093000Z
+LOCATION:KD0301
+DTSTART:20251017T061500Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik) B
+TRANSP:OPAQUE
+UID:sked.de287319
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 02.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20251002T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20251002T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286513
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mi\, 15.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20251015T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20251015T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286514
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 16.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20251016T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20251016T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286515
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 08.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
+DTEND:20250908T170000Z
+LOCATION:KD0201
+DTSTART:20250908T134500Z
+SUMMARY:Projektierung von IuK-Systemen
+TRANSP:OPAQUE
+UID:sked.de286698
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 15.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
+DTEND:20250915T170000Z
+LOCATION:KD0003
+DTSTART:20250915T134500Z
+SUMMARY:Projektierung von IuK-Systemen
+TRANSP:OPAQUE
+UID:sked.de286699
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)\nDozent: Seifert\nDatum: Do\, 18.09.25\nUhrzeit: 9:00 - 17:00 Uhr\nDauer: 8:00 Uhr\nArt: SV\nRaum: Exkursion\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWF-EBU\, 23DWF-IMA\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250918T150000Z
+LOCATION:Exkursion
+DTSTART:20250918T070000Z
+SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)
+TRANSP:OPAQUE
+UID:sked.de285631
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 22.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
 DTEND:20250922T170000Z
 LOCATION:KD0003
@@ -874,7 +384,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 29.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
 DTEND:20250929T170000Z
 LOCATION:KD0003
@@ -888,7 +398,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 06.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
 DTEND:20251006T170000Z
 LOCATION:KD0003
@@ -902,7 +412,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 13.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
 DTEND:20251013T170000Z
 LOCATION:KD0003
@@ -916,7 +426,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Projektierung von IuK-Systemen\nDozent: Barenkamp\nDatum: Mo\, 20.10.25\nUhrzeit: 12:15 - 19:00 Uhr\nDauer: 8:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-TIN\, 23DWF-IBM\, 23DWF-IMA\nAnmerkung: -
 DTEND:20251020T170000Z
 LOCATION:KD0003
@@ -930,7 +440,301 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Di\, 09.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250909T170000Z
+LOCATION:KD0201\, KD0202
+DTSTART:20250909T134500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287506
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Do\, 11.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250911T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250911T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286507
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Informationsmanagement / ERP-Systeme A\nDozent: Korn\nDatum: Mo\, 15.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250915T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250915T061500Z
+SUMMARY:Informationsmanagement / ERP-Systeme A
+TRANSP:OPAQUE
+UID:sked.de286508
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Fr\, 12.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\, KD0202\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250912T133000Z
+LOCATION:KD0201\, KD0202
+DTSTART:20250912T101500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287507
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 15.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LN0002\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250915T133000Z
+LOCATION:LN0002
+DTSTART:20250915T101500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287508
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250922T133000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250922T101500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287509
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mo\, 22.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0301\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250922T170000Z
+LOCATION:KD0301
+DTSTART:20250922T134500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287420
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Do\, 25.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250925T133000Z
+LOCATION:KD0003
+DTSTART:20250925T101500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287421
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250925T093000Z
+LOCATION:KD0201
+DTSTART:20250925T061500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287510
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Di\, 23.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250923T133000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250923T101500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287423
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Di\, 30.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250930T093000Z
+LOCATION:KD0201
+DTSTART:20250930T061500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287424
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mi\, 22.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251022T093000Z
+LOCATION:KD0001
+DTSTART:20251022T061500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287426
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 02.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251002T093000Z
+LOCATION:KD0201
+DTSTART:20251002T061500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287511
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Fr\, 24.10.25\nUhrzeit: 14:00 - 15:30 Uhr\nDauer: 2:00 Uhr\nArt: K\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251024T133000Z
+LOCATION:LK0101/LK0102
+DTSTART:20251024T120000Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287472
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Mo\, 06.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251006T170000Z
+LOCATION:KD0201
+DTSTART:20251006T134500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287512
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schuricht\nDatum: Do\, 16.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20251016T170000Z
+LOCATION:KD0201
+DTSTART:20251016T134500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287513
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 08.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250908T133000Z
+LOCATION:KD0002
+DTSTART:20250908T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286743
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 10.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250910T133000Z
+LOCATION:KD0002
+DTSTART:20250910T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286744
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 15.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KE0103\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250915T133000Z
+LOCATION:KE0103
+DTSTART:20250915T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286745
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 17.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250917T133000Z
+LOCATION:KD0002
+DTSTART:20250917T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286746
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250922T133000Z
+LOCATION:KD0002
+DTSTART:20250922T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286747
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Mi\, 22.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20251022T133000Z
 LOCATION:KD0001
@@ -944,7 +748,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Fr\, 24.10.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20251024T093000Z
 LOCATION:KD0201
@@ -958,7 +762,35 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 24.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0002\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250924T133000Z
+LOCATION:KD0002
+DTSTART:20250924T101500Z
+SUMMARY:Usability & (Software-)Ergonomie
+TRANSP:OPAQUE
+UID:sked.de286748
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Mo\, 22.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0103\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
+DTEND:20250922T133000Z
+LOCATION:LK0103
+DTSTART:20250922T101500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287514
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Fr\, 19.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0202\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20250919T093000Z
 LOCATION:KD0202
@@ -972,7 +804,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Mo\, 13.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20251013T133000Z
 LOCATION:KD0201
@@ -986,7 +818,77 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Mo\, 15.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250915T170000Z
+LOCATION:KD0004
+DTSTART:20250915T134500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287416
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Fr\, 26.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KF0004\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
+DTEND:20250926T133000Z
+LOCATION:KF0004
+DTSTART:20250926T101500Z
+SUMMARY:Unternehmenscontrolling B
+TRANSP:OPAQUE
+UID:sked.de287417
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Do\, 25.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: LK0101/LK0102\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
+DTEND:20250925T093000Z
+LOCATION:LK0101/LK0102
+DTSTART:20250925T061500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287515
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Projektmanagement\nDozent: Schlangen\nDatum: Mo\, 29.09.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DBW-HRM\, 23DBW-MAR\, 23DBW-UNF\nAnmerkung: -
+DTEND:20250929T093000Z
+LOCATION:KD0201
+DTSTART:20250929T061500Z
+SUMMARY:Projektmanagement
+TRANSP:OPAQUE
+UID:sked.de287516
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
+DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Di\, 16.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
+DTEND:20250916T170000Z
+LOCATION:KD0003
+DTSTART:20250916T134500Z
+SUMMARY:Innovationsmanagement und Businessplanung B
+TRANSP:OPAQUE
+UID:sked.de287518
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+PRIORITY:5
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Do\, 25.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0001\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20250925T170000Z
 LOCATION:KD0001
@@ -1000,7 +902,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Di\, 14.10.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20251014T133000Z
 LOCATION:KD0201
@@ -1014,7 +916,7 @@ SEQUENCE:0
 PRIORITY:5
 CATEGORIES:sked.de
 CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
+DTSTAMP:20250908T120758Z
 DESCRIPTION:Veranstaltung: Innovationsmanagement und Businessplanung B\nDozent: Gochermann\nDatum: Mi\, 15.10.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DWF-EBU\, 23DWF-IBM\, 23DWF-IMA\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
 DTEND:20251015T170000Z
 LOCATION:KD0201
@@ -1022,75 +924,5 @@ DTSTART:20251015T134500Z
 SUMMARY:Innovationsmanagement und Businessplanung B
 TRANSP:OPAQUE
 UID:sked.de287387
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)\nDozent: Seifert\nDatum: Fr\, 05.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0201\nStudiengruppe: 23DBW-LOG\, 23DBW-MAR\, 23DWF-EBU\, 23DWF-IMA\, 23DWI-PDM\, 23DWI-PSM\, 23DWI-VTM\nAnmerkung: -
-DTEND:20250905T133000Z
-LOCATION:KD0201
-DTSTART:20250905T101500Z
-SUMMARY:Supply Chain Management - Beschaffungs- und Distributionslogistik (Extralogistik)
-TRANSP:OPAQUE
-UID:sked.de286497
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Technologiemanagement\nDozent: Nee\nDatum: Fr\, 05.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0003\nStudiengruppe: 23BTS-CPV\, 23BTS-EAT\, 23BTS-MEC\nAnmerkung: -
-DTEND:20250905T170000Z
-LOCATION:KD0003
-DTSTART:20250905T134500Z
-SUMMARY:Technologiemanagement
-TRANSP:OPAQUE
-UID:sked.de286480
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mo\, 01.09.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250901T133000Z
-LOCATION:KD0004
-DTSTART:20250901T101500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286483
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Usability & (Software-)Ergonomie\nDozent: Ollermann\nDatum: Mi\, 03.09.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KD0004\nStudiengruppe: 23BTS-TIN\, 23DWF-EBU\, 23DWF-ITI\, 23DWF-PDI\nAnmerkung: -
-DTEND:20250903T170000Z
-LOCATION:KD0004
-DTSTART:20250903T134500Z
-SUMMARY:Usability & (Software-)Ergonomie
-TRANSP:OPAQUE
-UID:sked.de286484
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-PRIORITY:5
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DTSTAMP:20250906T070704Z
-DESCRIPTION:Veranstaltung: Unternehmenscontrolling B\nDozent: SchwellnuÃ\nDatum: Fr\, 24.10.25\nUhrzeit: 14:00 - 15:30 Uhr\nDauer: 2:00 Uhr\nArt: K\nRaum: LK0101/LK0102\nStudiengruppe: 23DWI-PRM\, 23DWI-TCN\, 23DWI-VTM\nAnmerkung: -
-DTEND:20251024T133000Z
-LOCATION:LK0101/LK0102
-DTSTART:20251024T120000Z
-SUMMARY:Unternehmenscontrolling B
-TRANSP:OPAQUE
-UID:sked.de287472
 END:VEVENT
 END:VCALENDAR
