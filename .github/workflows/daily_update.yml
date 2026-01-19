@@ -1,11 +1,11 @@
 name: Tägliches Kalender-Update
 
-#on:
-#  schedule:
-   # - cron: '0 3 * * *'  # täglich um 04:00 UTC
-   # - cron: '0 12 * * *'  # täglich um 10:30 UTC
-   # - cron: '0 20 * * *'  # täglich um 19:00 UTC
-#  workflow_dispatch:       # manuelles Starten
+on:
+  schedule:
+    - cron: '0 3 * * *'  # täglich um 04:00 UTC
+    - cron: '0 12 * * *'  # täglich um 10:30 UTC
+    - cron: '0 20 * * *'  # täglich um 19:00 UTC
+  workflow_dispatch:       # manuelles Starten
 
 jobs:
   update-ics:
