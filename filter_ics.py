@@ -5,8 +5,8 @@ from ics import Calendar
 ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/23SPS.ics"
 
 # Schlüsselwörter, nach denen gefiltert wird                                                                                           
-KEYWORDS = ["Supply Chain", "Unternehmenscontrolling B","Informationsmanagement / ERP-Systeme A", "Projektierung von ", "Usability",  "Businessplanung B" ]
-# *2x Controlling - A/B egal & *ggf. 2x Businessplanung - B: DWF & *3x Infomngt - A: DWF
+KEYWORDS = ["Datenbank-Engineering", "IT-Sicherheit","Big Data", "Integrierte Managementsysteme A", "Marketing: Planung von Marketingstrategien B",  "Projektorientierte Unternehmensführung" ]
+# IT-Sicherheit A oder B(was passt besser, B= EBU); Integrierte Managementsysteme A (gibt auch B); Projekt UNFührung testen weil kein Projektmang
 response = requests.get(ICS_URL)
 response.raise_for_status()
 calendar = Calendar(response.text)
