@@ -10,9 +10,7 @@ KEYWORDS = ["Datenbank-Engineering", "IT-Sicherheit","Big Data", "Integrierte Ma
 # IT-Sicherheit A oder B(was passt besser, B= EBU); Integrierte Managementsysteme A (gibt auch B); Projekt UNFührung testen weil kein Projektmang
 
 def fix_umlauts(text: str) -> str:
-    """
-    Repariert falsch dekodierte UTF-8-Umlaute (fÃ¼ -> ü etc.)
-    """
+    """Repariert falsch dekodierte UTF-8-Umlaute (fÃ¼ -> ü etc.)"""
     if not text:
         return ""
     try:
@@ -25,24 +23,27 @@ def normalize(text: str) -> str:
     text = unicodedata.normalize("NFKC", text)
     return text.strip().lower()
 
-
+# --- Kalender laden ---
 response = requests.get(ICS_URL)
 response.raise_for_status()
 calendar = Calendar(response.text)
 
-
 filtered = Calendar()
-for event in calendar.events:
-    if any(k.lower() in event.name.lower() for k in KEYWORDS):
-        filtered.events.add(event)
 
- if any(kw in fixed_name for kw in KEYWORDS):
-        # 🔧 Event-Namen sauber reparieren
+for event in calendar.events:
+    raw_name = event.name or ""
+    clean_name = normalize(raw_name)
+
+    if any(kw in clean_name for kw in KEYWORDS):
+        # 🔧 Inhalte reparieren, bevor sie exportiert werden
         event.name = fix_umlauts(event.name)
         if event.description:
             event.description = fix_umlauts(event.description)
         if event.location:
             event.location = fix_umlauts(event.location)
+
+        filtered.events.add(event)
+
 
 with open("filtered.ics", "w", encoding="utf-8") as f:
     f.writelines(filtered.serialize_iter())
