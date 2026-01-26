@@ -6,7 +6,8 @@ from ics import Calendar
 ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/23SPS.ics"
 
 # Schlüsselwörter, nach denen gefiltert wird                                                                                           
-KEYWORDS = ["Datenbank-Engineering", "IT-Sicherheit","Big Data", "Integrierte Managementsysteme A","Marketing: Internationales", "Marketing: Planung von Marketingstrategien B",  "Projektorientierte Unternehmens" ]
+KEYWORDS = ["Datenbank-Engineering", "IT-Sicherheit","Big Data", "Integrierte Managementsysteme A",
+            "Marketing: Internationales", "Marketing: Planung von Marketingstrategien B",  "Projektorientierte Unternehmens","Cross Cultural" ]
 # IT-Sicherheit A oder B(was passt besser, B= EBU); Integrierte Managementsysteme A (gibt auch B); Projekt UNFührung testen weil kein Projektmang-> vllt eher noch ein marketing
 
 def force_utf8(text):
