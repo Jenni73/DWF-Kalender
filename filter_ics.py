@@ -1,49 +1,53 @@
 import requests
-from icalendar import Calendar
+from ics import Calendar
 
+
+# URL deiner Hochschul-ICS-Datei
 ICS_URL = "https://sked.lin.hs-osnabrueck.de/sked/jg/23SPS.ics"
 
-KEYWORDS = [
-    "Datenbanken", "IT-Sicherheit", "Big Data",
-    "Integrierte Managementsysteme A",
-    "Internationales Marketing",
-    "Marketing: Planung von Marketingstrategien B",
-    "Projektorientierte Unternehmens",
-    "Cross Cultural",
-]
+# Schlüsselwörter, nach denen gefiltert wird                                                                                           
+KEYWORDS = ["Datenbanken", "IT-Sicherheit","Big Data", "Integrierte Managementsysteme A",
+            "Internationales Marketing", "Marketing: Planung von Marketingstrategien B",  "Projektorientierte Unternehmens","Cross Cultural" ]
+# IT-Sicherheit A oder B(was passt besser, B= EBU); Integrierte Managementsysteme A (gibt auch B); Projekt UNFührung testen weil kein Projektmang-> vllt eher noch ein marketing
 
-def norm(s: str) -> str:
-    return (s or "").casefold()
+def force_utf8(text):
+    """Wandelt falsch decodierte Strings (fÃ¼) in echte Umlaute um."""
+    if not text:
+        return ""
+    try:
+        # Das fixt den typischen Fehler der ICS-Quelle
+        return text.encode("latin1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        # Falls schon korrekt, einfach zurückgeben
+        return text
+# --- Kalender laden ---
+response = requests.get(ICS_URL)
+response.raise_for_status()
+ics_lines = []
+for line in response.text.splitlines():
+    # Jede Zeile durch force_utf8 schicken
+    ics_lines.append(force_utf8(line))
+ics_fixed = "\n".join(ics_lines)
 
-kw_norm = [k.casefold() for k in KEYWORDS]
+# 3. ICS parsen
+calendar = Calendar(ics_fixed)
 
-r = requests.get(ICS_URL)
-r.raise_for_status()
+filtered = Calendar()
 
-# wichtig: bytes nehmen und selbst als utf-8 dekodieren (statt requests raten lassen)
-text = r.content.decode("utf-8", errors="replace")
+for event in calendar.events:
+    # ALLES sofort ins richtige Format
+    event.name = force_utf8(event.name)
+    if event.description:
+        event.description = force_utf8(event.description)
+    if event.location:
+        event.location = force_utf8(event.location)
 
-cal = Calendar.from_ical(text)
-out = Calendar()
-out.add("PRODID", "-//filtered//EN")
-out.add("VERSION", "2.0")
+    # Jetzt ganz normal mit Umlauten filtern (genauso, wie du sie oben in KEYWORDS schreibst)
+    if any(kw.lower() in (event.name or "").lower() for kw in KEYWORDS):
+        filtered.events.add(event)
 
-kept = 0
-total = 0
+with open("filtered.ics", "w", encoding="utf-8") as f:
+    f.writelines(filtered.serialize_iter())
 
-for comp in cal.walk("VEVENT"):
-    total += 1
-    summary = str(comp.get("SUMMARY", ""))
-    desc = str(comp.get("DESCRIPTION", ""))
-    loc = str(comp.get("LOCATION", ""))
 
-    hay = norm(summary) + "\n" + norm(desc) + "\n" + norm(loc)
-
-    if any(k in hay for k in kw_norm):
-        out.add_component(comp)
-        kept += 1
-
-with open("filtered.ics", "wb") as f:
-    f.write(out.to_ical())
-
-print(f"✅ Fertig! {kept}/{total} Events übernommen.")
+print("✅ Fertig! Gefilterte Datei gespeichert.")
