@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install ics requests
+        run: pip install ics requests rich
 
       - name: Run filter script
         run: python filter_ics.py
