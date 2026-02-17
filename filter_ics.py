@@ -50,4 +50,4 @@ with open("filtered.ics", "w", encoding="utf-8") as f:
     f.writelines(filtered.serialize_iter())
 
 
-print("✅ Fertig! Gefilterte Datei gespeichert.")
+print("Fertig! Gefilterte Datei gespeichert.")
